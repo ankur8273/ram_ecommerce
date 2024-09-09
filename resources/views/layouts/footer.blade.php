@@ -142,7 +142,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-6 order-2 order-md-1">
                         <div class="copyright-text">
-                            <p>&copy; <b>AAKHET </b> All Right Reserved Developed By Ankur Prajpatai</a></p>
+                            <p>&copy; <b>AAKHET </b> All Right Reserved Developed By Ankur prajpati</a></p>
                         </div>
                     </div>
                     <div class="col-md-6 ms-auto order-1 order-md-2">
